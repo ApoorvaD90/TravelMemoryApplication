@@ -7,4 +7,4 @@ All the screenshots and steps for the assignment are added to the word document 
 # Architecture Diagram
 Architecture Diagram for the flow is added to the repo with title 'TravelMemoryArchitecture'
 
-
+![Architecture Diagram](/TravelMemoryApplicationArchitecture.drawio.png)
