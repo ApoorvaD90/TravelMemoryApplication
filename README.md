@@ -9,7 +9,7 @@ All the screenshots and steps for the assignment are added to the word document 
 The flow of the request is as follows:
 
 1. The request originates from the **Browser**.
-2. The request is routed through **Cloudflare**, which provides access to the public domain along with CDN, WAF, and DDoS protection.
+2. The request is routed through **Cloudflare**, which provides access to the public domain.
 3. Cloudflare forwards the request to the **FE AWS Load Balancer**.
 4. The **FE AWS Load Balancer** routes the request to the **FE Target Group**.
 5. The **FE Target Group** forwards the request to the **FE instances**.
